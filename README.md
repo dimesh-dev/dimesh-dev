@@ -1,11 +1,13 @@
 # Hi, I'm Dimesh 😊
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCA311&center=true&vCenter=true&repeat=false&width=450&lines=Hi%2C+I'm+Dimesh+%F0%9F%98%8A;Fuelled+by+curiosity%2C+driven+by+code+%E2%9A%99%EF%B8%8F%E2%9C%A8" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FCA311&center=true&vCenter=true&repeat=false&width=450&lines=Hi%2C+I%27m+Dimesh+%F0%9F%98%8A;Fuelled+by+curiosity%2C+driven+by+code+%E2%9A%99%EF%B8%8F%E2%9C%A8" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <img src="https://www.pinterest.com/ashleyequintani/anime-gif/" width="400" />
+  <img src="![image](https://github.com/user-attachments/assets/b7ed0afb-9c32-4e13-ae4d-d590b577b855)
+" width="400" />
 </p>
 
 ---
