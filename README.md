@@ -62,6 +62,12 @@
 
 ---
 
+![Snake animation](https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+---
+
+
 <p align="center">
   ⌘ Debugging life, deploying ideas. ⏳🧬
 </p>
