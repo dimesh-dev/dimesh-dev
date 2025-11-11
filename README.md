@@ -60,14 +60,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dimesh-dev&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="400" height='150'/>
 </p>
 
+<details open>
+  <summary align="center"><h2> Profile Statistics </h2></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dimesh-dev&bg_color=00000000&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution+Graph"/>
+  </div>
+</details>
+
 ---
 
-![Snake animation](https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake animation](https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake animation" />
+  <img src="https://github.com/dimesh-dev/dimesh-dev/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b2e05,100:c19a6b&height=120&section=footer"/>
+</p>
 
 ---
-
-
 <p align="center">
   ⌘ Debugging life, deploying ideas. ⏳🧬
 </p>
